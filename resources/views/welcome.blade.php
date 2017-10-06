@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Welcome to video Library
+                  Welcome to Video Library
                 </div>
 
                 <div class="links">
